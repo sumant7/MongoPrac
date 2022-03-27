@@ -1,0 +1,25 @@
+{
+  "name": "mongoprac",
+  "version": "1.0.0",
+  "description": "An attempt at learning mongodb with nodejs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumant7/MongoPrac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumant7/MongoPrac/issues"
+  },
+  "homepage": "https://github.com/sumant7/MongoPrac#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  }
+}
